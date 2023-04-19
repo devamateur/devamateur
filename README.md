@@ -17,8 +17,8 @@
 
   ### 📋Github Stats <br>
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devamateur&show_icons=true&theme=highcontrast">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devamateur&layout=compact&&theme=highcontrast">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devamateur&show_icons=true&theme=highcontrast">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devamateur&layout=compact&&theme=highcontrast">
 </p>
 <br><br>
 
