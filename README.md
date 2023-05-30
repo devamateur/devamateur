@@ -32,7 +32,6 @@
 </p>
 <br><br>
 
-
 ![Footer](https://capsule-render.vercel.app/api?type=soft&color=65648d&height=200&section=footer)
 
 </div>
