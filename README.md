@@ -1,4 +1,4 @@
-<div align=left>
+<div align=center>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=65648d&height=300&section=header&text=Mi%20Jeong%20Cho&fontSize=70&fontColor=ffffff)
 
@@ -8,8 +8,8 @@
   객관적인 분석으로 기업이 신뢰할 수 있는 지표를 만드는 분석가
   <br><br><br><br>
   
-  ### 🔧Stacks
-  <b>Language & Platform</b><br>
+  ### 🔧Stacks &nbsp; &nbsp;
+  <b> Language & Platform</b><br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a> 
   <br>
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
